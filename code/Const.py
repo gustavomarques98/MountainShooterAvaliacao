@@ -138,11 +138,6 @@ ENTITY_SHOT_DELAY = {
     'Enemy3': 75,
 }
 
-ENTITY_MOVE = {
-    'Enemy1': 'left',
-    'Enemy2': 'left',
-    'Enemy3': 'left',
-}
 
 # M
 MENU_OPTION = ('NEW GAME 1P',
